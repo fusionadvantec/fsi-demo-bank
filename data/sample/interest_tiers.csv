@@ -1,0 +1,4 @@
+tier,min_balance_thb,max_balance_thb,annual_rate_pct,notes
+1,0,100000,0.50,Fictional demo rate - not a real bank product
+2,100000.01,1000000,1.25,Fictional demo rate - not a real bank product
+3,1000000.01,,1.75,Fictional demo rate - open-ended upper tier

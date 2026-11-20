@@ -1,0 +1,4 @@
+customer_id,full_name,preferred_name,segment,branch_code,email_demo
+C0001,Somchai Demo,Somchai,RETAIL,001,somchai.demo@example.invalid
+C0002,Suda Example,Suda,RETAIL,001,suda.example@example.invalid
+C0003,Anan Sample,Anan,AFFLUENT,002,anan.sample@example.invalid
